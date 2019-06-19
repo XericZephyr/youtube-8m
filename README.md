@@ -48,7 +48,7 @@ custom-defined models.
 
 The starter code requires Tensorflow. If you haven't installed it yet, follow
 the instructions on [tensorflow.org](https://www.tensorflow.org/install/). This
-code has been tested with Tensorflow 1.8. Going forward, we will continue to
+code has been tested with Tensorflow 1.13. Going forward, we will continue to
 target the latest released version of Tensorflow.
 
 Please verify that you have Python 2.7+ and Tensorflow 1.8 or higher installed
